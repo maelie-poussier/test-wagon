@@ -1,1 +1,1 @@
-SELECT * FROM `methodical-ace-409015.google_sheets_doctors.doctors` 
+SELECT first_name, last_name FROM `methodical-ace-409015.google_sheets_doctors.doctors` 
